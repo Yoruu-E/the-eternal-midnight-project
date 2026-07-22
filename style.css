@@ -1,0 +1,11 @@
+.panel{
+    height: 100px;
+    width: 150px;
+    background-color: #182b59;
+}
+
+.intro{
+    height: 50px;
+    width: 150px;
+    background-color: #0d1524;
+}
